@@ -9,7 +9,7 @@ The complete operating system for raising venture capital, end to end. Decide yo
 ## Install
 
 - **From the catalog:** [skillme.dev/pack/founder-fundraising-os](https://skillme.dev/pack/founder-fundraising-os) — install the whole pack into Claude in one step.
-- **With the skills CLI:** `npx skills add aouellets/founder-fundraising-os`
+- **With the skills CLI:** `npx skills add SkillMedev/founder-fundraising-os`
 - **Manually:** copy any `skills/<slug>/SKILL.md` into your Claude skills directory.
 
 ## Skills in this pack
