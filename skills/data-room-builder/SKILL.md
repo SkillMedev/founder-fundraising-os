@@ -13,7 +13,8 @@ tight ship" and shortens the path to wired funds.
 ## When to use this skill
 
 Build it during [[fundraise-readiness-audit]] (you should be able to produce it
-in days), and stage it for sharing once a term sheet is near. Confirmatory
+in days — 3 to 5 working days is the standard for a seed-stage company with
+clean books), and stage it for sharing once a term sheet is near. Confirmatory
 diligence runs against it; see [[fundraise-closing-mechanics]].
 
 ## Structure the room in tiers
@@ -26,7 +27,8 @@ Share progressively — not everything goes out on the first call.
 - Market sizing with assumptions ([[market-sizing]]).
 
 ### Tier 2 — shared at serious interest / pre-term-sheet
-- **Financials**: historical P&L, the model/projections ([[financial-planner]]),
+- **Financials**: historical P&L covering at least the trailing 24 months
+  (monthly granularity), the model/projections ([[financial-planner]]),
   monthly burn and runway.
 - **Metrics detail**: cohort/retention curves, CAC by channel, pipeline.
 - **Cap table**: fully-diluted, plus prior SAFEs/notes ([[cap-table-manager]]).
@@ -35,7 +37,9 @@ Share progressively — not everything goes out on the first call.
 ### Tier 3 — confirmatory diligence (post-term-sheet)
 - **Corporate**: incorporation docs, board consents, prior financing docs.
 - **IP**: assignment agreements for every founder and contractor.
-- **Customers**: top contracts, churn detail, references.
+- **Customers**: top contracts (any customer over ~10% of revenue gets extra
+  scrutiny — have those contracts and their renewal terms ready), churn
+  detail, references.
 - **People**: org chart, key employee agreements, option grants.
 - **Legal**: any litigation, regulatory exposure, material contracts.
 
@@ -44,8 +48,13 @@ Share progressively — not everything goes out on the first call.
 - One source of truth per number. The metric in the deck, the data room, and
   your mouth must match to the decimal.
 - Label and date every file. A folder named "Final_v3_real" loses you trust.
-- Track who has access and what tier they are in; close access when a deal dies.
+- Track who has access and what tier they are in; close access within a week
+  of a deal dying — a stale open room is a leak waiting to happen.
 - Keep an index document at the root so a partner can navigate without asking.
+- Respond to any diligence document request within 24-48 hours. Slower than
+  that reads as "they don't have it" and stalls the deal clock; confirmatory
+  diligence should run 2-4 weeks, and slow responses are the usual reason it
+  doesn't.
 
 ## Anti-patterns
 
@@ -55,6 +64,17 @@ Share progressively — not everything goes out on the first call.
   way to lose a deal; reconcile before you share.
 - A room you cannot assemble until week three of diligence. Build it before you
   raise, not during.
+
+## Quality bar
+
+- Every metric in the room reconciles to the deck and the model to the decimal,
+  with one named source of truth per number.
+- The full Tier 1-3 structure exists before outreach starts, with a have /
+  need / drafting status on every item.
+- Every file is labeled and dated; the root index lets a partner find any
+  document without asking.
+- Access is logged per person per tier, and there is a plan to revoke it when
+  a deal dies.
 
 ## Deliverable
 
